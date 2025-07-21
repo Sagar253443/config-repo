@@ -1,2 +1,4 @@
 user.role=Admin
-welcome.message= Welcome to the Spring Cloud Config managed application!
+welcome.message= Welcome to the Spring Cloud Config managed application!This is in dev folder
+
+
