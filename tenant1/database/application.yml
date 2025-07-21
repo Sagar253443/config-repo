@@ -1,0 +1,7 @@
+user.role=Admin
+welcome.message= Welcome to the Spring Cloud Config managed application!
+
+//db properties
+db.url=xyz
+db.username=user
+db.password=password
